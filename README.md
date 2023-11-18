@@ -1,4 +1,4 @@
-# Hi, I'm yeti0904
+# Hi, I'm yeti0904/MESYETI
 I program a lot of different projects in mainly D and sometimes C
 
 Best projects:

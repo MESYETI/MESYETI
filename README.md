@@ -7,3 +7,6 @@ Best projects:
 - [noro](https://github.com/yeti0904/noro) - Terminal text editor with a window manager
 - [WPL](https://github.com/yeti0904/WPL) - Esoteric programming language that only has binary operators, but is still usable
 - [yterm](https://github.com/yeti0904/yterm) - A terminal emulator based on eduterm
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeti0904&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeti0904&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
